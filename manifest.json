@@ -1,0 +1,36 @@
+{
+    "name" : "Beer App",
+    "short_name" : "Beer",
+    "description" : "Une app qui répertorie les bières",
+    "start_url" : "./index.html?source=pwa",
+    "display" : "standalone",
+    "background_color": "white",
+    "theme_color": "green",
+    "icons": [
+        {
+            "src": "./assets/beer-16x16.png",
+            "sizes" : "16x16",
+            "type" : "image/png"
+        },
+        {
+            "src": "./assets/beer-32x32.png",
+            "sizes" : "32x32",
+            "type" : "image/png"
+        },
+        {
+            "src": "./assets/beer-150x150.png",
+            "sizes" : "270x270",
+            "type" : "image/png"
+        },
+        {
+            "src": "./assets/beer-192x192.png",
+            "sizes" : "192x192",
+            "type" : "image/png"
+        },
+        {
+            "src": "./assets/beer-touch.png",
+            "sizes" : "180x180",
+            "type" : "image/png"
+        }
+    ]
+}
